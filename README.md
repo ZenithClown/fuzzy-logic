@@ -13,7 +13,7 @@
 
 <p align = "justify">Fuzzy systems are structures based on fuzzy techniques oriented towards information processing, where the usage of classical sets theory and binary logic is impossible or difficult. In the literature, terms such as fuzzy system, fuzzy model, system based on fuzzy rules, fuzzy controller, or fuzzy associative memory are used interchangeably depending on the application type. A typical structure of a fuzzy-based system is shown below. [1]</p>
 
-![The Typical Structure of a Fuzzy System](./gfx/FuzzySystem.gif)
+<p align = "center"><img src = "./gfx/FuzzySystem.gif" alt = "The Typical Structure of a Fuzzy System"></p>
 
 ## References
 <p align = "justify">[1] Czabanski R., Jezewski M., Leski J. (2017) Introduction to Fuzzy Systems. In: Prokopowicz P., Czerniak J., Mikołajewski D., Apiecionek Ł., Ślȩzak D. (eds) Theory and Applications of Ordered Fuzzy Numbers. Studies in Fuzziness and Soft Computing, vol 356. Springer, Cham.</p>
